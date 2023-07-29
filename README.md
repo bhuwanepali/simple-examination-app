@@ -22,6 +22,11 @@ Install dependencies
 ```bash
   npm install
 ```
+Migration
+
+```bash
+  php artisan migrate
+```
 
 Start the server
 
