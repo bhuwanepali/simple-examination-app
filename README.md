@@ -45,7 +45,7 @@ Password : 12345678
 
 ## Login
 
-![App Screenshot] (https://github.com/bhuwanepali/simple-examination-app/blob/master/Login.PNG)
+![App Screenshot](https://github.com/bhuwanepali/simple-examination-app/blob/master/Login.PNG)
 
 ## QuestionList Page
 
