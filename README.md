@@ -41,7 +41,7 @@ Start the server
 
 ## Login Detail
 
-- login through email or username
+- login through email
 
 Email : bhuwan@gmail.com
 
