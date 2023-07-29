@@ -72,6 +72,10 @@ Password : 12345678
 
 ![App Screenshot](https://github.com/bhuwanepali/simple-examination-app/blob/master/Mail.PNG)
 
+## Question Paper
+
+![App Screenshot](https://github.com/bhuwanepali/simple-examination-app/blob/master/QuestionPaper.PNG)
+
 ## Test Case (Unit Testing)
 
 ![App Screenshot](https://github.com/bhuwanepali/simple-examination-app/blob/master/TestCase.PNG)
