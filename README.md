@@ -45,24 +45,29 @@ Password : 12345678
 
 ## Login
 
-https://github.com/bhuwanepali/simple-examination-app/blob/master/Login.PNG
+![App Screenshot] (https://github.com/bhuwanepali/simple-examination-app/blob/master/Login.PNG)
 
 ## QuestionList Page
 
 ![App Screenshot](https://github.com/bhuwanepali/simple-examination-app/blob/master/Question.PNG)
 
-## Home Page
+## Question Entry Form
 
-![App Screenshot](https://github.com/bhuwanepali/CRUD-LARAVEL-9/blob/main/public/screenshots/home_page.PNG?raw=true)
+![App Screenshot](https://github.com/bhuwanepali/simple-examination-app/blob/master/QuestionEntryForm.PNG)
 
-## Add Page
+## StudentList Page
 
-![App Screenshot](https://github.com/bhuwanepali/CRUD-LARAVEL-9/blob/main/public/screenshots/add.PNG?raw=true)
+![App Screenshot](https://github.com/bhuwanepali/simple-examination-app/blob/master/Student.PNG)
 
-## Update Page
+## Student Entry Page
 
-![App Screenshot](https://github.com/bhuwanepali/CRUD-LARAVEL-9/blob/main/public/screenshots/update.PNG?raw=true)
+![App Screenshot](https://github.com/bhuwanepali/simple-examination-app/blob/master/Student.PNG)
 
-## View Page
+## Email Image
 
-![App Screenshot](https://github.com/bhuwanepali/CRUD-LARAVEL-9/blob/main/public/screenshots/view.PNG?raw=true)
+![App Screenshot](https://github.com/bhuwanepali/simple-examination-app/blob/master/Mail.PNG)
+
+## Test Case (Unit Testing)
+
+![App Screenshot](https://github.com/bhuwanepali/simple-examination-app/blob/master/TestCase.PNG)
+
