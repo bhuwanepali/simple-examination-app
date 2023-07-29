@@ -45,11 +45,11 @@ Password : 12345678
 
 ## Login
 
-![App Screenshot](https://github.com/bhuwanepali/CRUD-LARAVEL-9/blob/main/public/screenshots/login.PNG?raw=true)
+https://github.com/bhuwanepali/simple-examination-app/blob/master/Login.PNG
 
-## Home Page
+## QuestionList Page
 
-![App Screenshot](https://github.com/bhuwanepali/CRUD-LARAVEL-9/blob/main/public/screenshots/home_page.PNG?raw=true)
+![App Screenshot](https://github.com/bhuwanepali/simple-examination-app/blob/master/Question.PNG)
 
 ## Home Page
 
